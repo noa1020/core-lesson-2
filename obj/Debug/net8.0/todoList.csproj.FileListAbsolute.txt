@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\יד\CORE\todoList\obj\Debug\net8.0\todoList.MvcApplicationPartsAssemblyInfo.cache

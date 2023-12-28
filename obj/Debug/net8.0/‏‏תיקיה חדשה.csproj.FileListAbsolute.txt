@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\‏‏תיקיה חדשה.exe
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\‏‏תיקיה חדשה.deps.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\‏‏תיקיה חדשה.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\‏‏תיקיה חדשה.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\‏‏תיקיה חדשה.pdb
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets\msbuild.‏‏תיקיה חדשה.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets\msbuild.build.‏‏תיקיה חדשה.props
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.‏‏תיקיה חדשה.props
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.‏‏תיקיה חדשה.props
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\scopedcss\bundle\‏‏תיקיה חדשה.styles.css
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\refint\‏‏תיקיה חדשה.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.pdb
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\‏‏תיקיה חדשה.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\‏‏תיקיה חדשה\obj\Debug\net8.0\ref\‏‏תיקיה חדשה.dll
